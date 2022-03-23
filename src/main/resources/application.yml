@@ -1,0 +1,9 @@
+spring:
+    main:
+        web-application-type: none
+
+telegram:
+    bot:
+        delay-in-ms-between-updates: 1000
+        delay-in-ms-between-messages: 1000
+        messages-per-consumption: 10
